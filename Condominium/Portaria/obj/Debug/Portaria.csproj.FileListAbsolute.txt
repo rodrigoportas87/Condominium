@@ -1,0 +1,156 @@
+c:\users\roepri\documents\visual studio 2013\Projects\Portaria\Portaria\bin\Debug\Portaria.exe.config
+I:\Portaria\Portaria\Portaria\bin\Debug\Portaria.exe.config
+I:\Portaria\Portaria\Portaria\bin\Debug\Portaria.exe
+I:\Portaria\Portaria\Portaria\bin\Debug\Portaria.pdb
+I:\Portaria\Portaria\Portaria\obj\Debug\Portaria.csprojResolveAssemblyReference.cache
+I:\Portaria\Portaria\Portaria\obj\Debug\Portaria.apartamento.resources
+I:\Portaria\Portaria\Portaria\obj\Debug\Portaria.cadastro.resources
+I:\Portaria\Portaria\Portaria\obj\Debug\Portaria.mainMenu.resources
+I:\Portaria\Portaria\Portaria\obj\Debug\Portaria.splash.resources
+I:\Portaria\Portaria\Portaria\obj\Debug\Portaria.Properties.Resources.resources
+I:\Portaria\Portaria\Portaria\obj\Debug\Portaria.csproj.GenerateResource.Cache
+I:\Portaria\Portaria\Portaria\obj\Debug\Portaria.exe
+I:\Portaria\Portaria\Portaria\obj\Debug\Portaria.pdb
+I:\Portaria\Portaria\Portaria\bin\Debug\apartamento.resx
+I:\Portaria\Portaria\Portaria\bin\Debug\apartamento.cs
+I:\Portaria\Portaria\Portaria\bin\Debug\apartamento.Designer.cs
+I:\ARQUIVOS\Portaria\Portaria\Portaria\bin\Debug\Portaria.exe.config
+I:\ARQUIVOS\Portaria\Portaria\Portaria\obj\Debug\Portaria.exe
+I:\ARQUIVOS\Portaria\Portaria\Portaria\obj\Debug\Portaria.csprojResolveAssemblyReference.cache
+I:\ARQUIVOS\Portaria\Portaria\Portaria\obj\Debug\Portaria.apartamento.resources
+I:\ARQUIVOS\Portaria\Portaria\Portaria\obj\Debug\Portaria.cadastro.resources
+I:\ARQUIVOS\Portaria\Portaria\Portaria\obj\Debug\Portaria.mainMenu.resources
+I:\ARQUIVOS\Portaria\Portaria\Portaria\obj\Debug\Portaria.splash.resources
+I:\ARQUIVOS\Portaria\Portaria\Portaria\obj\Debug\Portaria.Properties.Resources.resources
+I:\ARQUIVOS\Portaria\Portaria\Portaria\obj\Debug\Portaria.csproj.GenerateResource.Cache
+I:\ARQUIVOS\Portaria\Portaria\Portaria\bin\Debug\PortariaDB.mdf
+I:\ARQUIVOS\Portaria\Portaria\Portaria\bin\Debug\PortariaDB_log.ldf
+I:\ARQUIVOS\Portaria\Portaria\Portaria\bin\Debug\apartamento.resx
+I:\ARQUIVOS\Portaria\Portaria\Portaria\bin\Debug\apartamento.cs
+I:\ARQUIVOS\Portaria\Portaria\Portaria\bin\Debug\apartamento.Designer.cs
+I:\ARQUIVOS\Portaria\Portaria\Portaria\bin\Debug\Portaria.exe
+I:\ARQUIVOS\Portaria\Portaria\Portaria\bin\Debug\Portaria.pdb
+I:\ARQUIVOS\Portaria\Portaria\Portaria\obj\Debug\Portaria.pdb
+I:\ARQUIVOS\Portaria\Portaria\Portaria\obj\Debug\Portaria.CadastroMorador.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria\Portaria\obj\Debug\Portaria.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria\Portaria\obj\Debug\Portaria.apartamento.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria\Portaria\obj\Debug\Portaria.cadastro.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria\Portaria\obj\Debug\Portaria.CadastroMorador.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria\Portaria\obj\Debug\Portaria.mainMenu.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria\Portaria\obj\Debug\Portaria.splash.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria\Portaria\obj\Debug\Portaria.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria\Portaria\obj\Debug\Portaria.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria\Portaria\obj\Debug\Portaria.exe
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria\Portaria\obj\Debug\Portaria.pdb
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria\Portaria\obj\Debug\Portaria.Relatorio.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria\Portaria\Portaria.exe.config
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria\Portaria\apartamento.resx
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria\Portaria\apartamento.cs
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria\Portaria\apartamento.Designer.cs
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria\Portaria\Portaria.exe
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria\Portaria\Portaria.pdb
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria matriz - Copia\Portaria\Portaria.exe.config
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria matriz - Copia\Portaria\obj\Debug\Portaria.exe
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria matriz - Copia\Portaria\obj\Debug\Portaria.pdb
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria matriz - Copia\Portaria\obj\Debug\Portaria.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria matriz - Copia\Portaria\obj\Debug\Portaria.apartamento.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria matriz - Copia\Portaria\obj\Debug\Portaria.cadastro.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria matriz - Copia\Portaria\obj\Debug\Portaria.CadastroMorador.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria matriz - Copia\Portaria\obj\Debug\Portaria.mainMenu.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria matriz - Copia\Portaria\obj\Debug\Portaria.Relatorio.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria matriz - Copia\Portaria\obj\Debug\Portaria.splash.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria matriz - Copia\Portaria\obj\Debug\Portaria.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria matriz - Copia\Portaria\obj\Debug\Portaria.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria matriz - Copia\Portaria\apartamento.resx
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria matriz - Copia\Portaria\apartamento.cs
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria matriz - Copia\Portaria\apartamento.Designer.cs
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria matriz - Copia\Portaria\Portaria.exe
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria matriz - Copia\Portaria\Portaria.pdb
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria\Portaria\obj\Debug\Portaria.CadVisita.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria correta 06-02\Portaria\Portaria.exe.config
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria correta 06-02\Portaria\obj\Debug\Portaria.exe
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria correta 06-02\Portaria\obj\Debug\Portaria.pdb
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria correta 06-02\Portaria\obj\Debug\Portaria.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria correta 06-02\Portaria\obj\Debug\Portaria.apartamento.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria correta 06-02\Portaria\obj\Debug\Portaria.cadastro.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria correta 06-02\Portaria\obj\Debug\Portaria.CadastroMorador.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria correta 06-02\Portaria\obj\Debug\Portaria.CadVisita.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria correta 06-02\Portaria\obj\Debug\Portaria.mainMenu.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria correta 06-02\Portaria\obj\Debug\Portaria.Relatorio.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria correta 06-02\Portaria\obj\Debug\Portaria.splash.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria correta 06-02\Portaria\obj\Debug\Portaria.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria correta 06-02\Portaria\obj\Debug\Portaria.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria correta 06-02\Portaria\apartamento.resx
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria correta 06-02\Portaria\apartamento.cs
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria correta 06-02\Portaria\apartamento.Designer.cs
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria correta 06-02\Portaria\Portaria.exe
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria correta 06-02\Portaria\Portaria.pdb
+D:\Portaria correta 06-02\Portaria\Portaria.exe.config
+D:\Portaria correta 06-02\Portaria\obj\Debug\Portaria.exe
+D:\Portaria correta 06-02\Portaria\obj\Debug\Portaria.pdb
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria terminado 06-02-18\Portaria\Portaria.exe.config
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria terminado 06-02-18\Portaria\obj\Debug\Portaria.exe
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria terminado 06-02-18\Portaria\obj\Debug\Portaria.pdb
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria terminado 06-02-18\Portaria\obj\Debug\Portaria.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria terminado 06-02-18\Portaria\obj\Debug\Portaria.apartamento.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria terminado 06-02-18\Portaria\obj\Debug\Portaria.cadastro.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria terminado 06-02-18\Portaria\obj\Debug\Portaria.CadastroMorador.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria terminado 06-02-18\Portaria\obj\Debug\Portaria.CadVisita.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria terminado 06-02-18\Portaria\obj\Debug\Portaria.mainMenu.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria terminado 06-02-18\Portaria\obj\Debug\Portaria.Relatorio.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria terminado 06-02-18\Portaria\obj\Debug\Portaria.splash.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria terminado 06-02-18\Portaria\obj\Debug\Portaria.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria terminado 06-02-18\Portaria\obj\Debug\Portaria.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria terminado 06-02-18\Portaria\obj\Debug\Portaria.exe.manifest
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria terminado 06-02-18\Portaria\obj\Debug\Portaria.application
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria terminado 06-02-18\Portaria\apartamento.resx
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria terminado 06-02-18\Portaria\apartamento.cs
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria terminado 06-02-18\Portaria\apartamento.Designer.cs
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria terminado 06-02-18\Portaria\Portaria.exe.manifest
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria terminado 06-02-18\Portaria\Portaria.application
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria terminado 06-02-18\Portaria\Portaria.exe
+C:\Users\Rodrigo\Desktop\Portaria v\Portaria terminado 06-02-18\Portaria\Portaria.pdb
+C:\Program Files\Portaria\Portaria\Portaria.exe.config
+C:\Program Files\Portaria\Portaria\obj\Debug\Portaria.exe
+C:\Program Files\Portaria\Portaria\obj\Debug\Portaria.pdb
+C:\Program Files\Portaria\Portaria\obj\Debug\Portaria.csprojResolveAssemblyReference.cache
+C:\Program Files\Portaria\Portaria\obj\Debug\Portaria.apartamento.resources
+C:\Program Files\Portaria\Portaria\obj\Debug\Portaria.cadastro.resources
+C:\Program Files\Portaria\Portaria\obj\Debug\Portaria.CadastroMorador.resources
+C:\Program Files\Portaria\Portaria\obj\Debug\Portaria.CadVisita.resources
+C:\Program Files\Portaria\Portaria\obj\Debug\Portaria.mainMenu.resources
+C:\Program Files\Portaria\Portaria\obj\Debug\Portaria.Relatorio.resources
+C:\Program Files\Portaria\Portaria\obj\Debug\Portaria.splash.resources
+C:\Program Files\Portaria\Portaria\obj\Debug\Portaria.Properties.Resources.resources
+C:\Program Files\Portaria\Portaria\obj\Debug\Portaria.csproj.GenerateResource.Cache
+C:\Program Files\Portaria\Portaria\obj\Debug\Portaria.exe.manifest
+C:\Program Files\Portaria\Portaria\obj\Debug\Portaria.application
+C:\Program Files\Portaria\Portaria\apartamento.resx
+C:\Program Files\Portaria\Portaria\apartamento.cs
+C:\Program Files\Portaria\Portaria\apartamento.Designer.cs
+C:\Program Files\Portaria\Portaria\Portaria.exe.manifest
+C:\Program Files\Portaria\Portaria\Portaria.application
+C:\Program Files\Portaria\Portaria\Portaria.exe
+C:\Program Files\Portaria\Portaria\Portaria.pdb
+C:\Portaria\Portaria\Portaria.exe.config
+C:\Portaria\Portaria\obj\Debug\Portaria.exe
+C:\Portaria\Portaria\obj\Debug\Portaria.pdb
+C:\Portaria\Portaria\obj\Debug\Portaria.csprojResolveAssemblyReference.cache
+C:\Portaria\Portaria\obj\Debug\Portaria.apartamento.resources
+C:\Portaria\Portaria\obj\Debug\Portaria.cadastro.resources
+C:\Portaria\Portaria\obj\Debug\Portaria.CadastroMorador.resources
+C:\Portaria\Portaria\obj\Debug\Portaria.CadVisita.resources
+C:\Portaria\Portaria\obj\Debug\Portaria.mainMenu.resources
+C:\Portaria\Portaria\obj\Debug\Portaria.Relatorio.resources
+C:\Portaria\Portaria\obj\Debug\Portaria.splash.resources
+C:\Portaria\Portaria\obj\Debug\Portaria.Properties.Resources.resources
+C:\Portaria\Portaria\obj\Debug\Portaria.csproj.GenerateResource.Cache
+C:\Portaria\Portaria\obj\Debug\Portaria.exe.manifest
+C:\Portaria\Portaria\obj\Debug\Portaria.application
+C:\Portaria\Portaria\apartamento.resx
+C:\Portaria\Portaria\apartamento.cs
+C:\Portaria\Portaria\apartamento.Designer.cs
+C:\Portaria\Portaria\Portaria.exe.manifest
+C:\Portaria\Portaria\Portaria.application
+C:\Portaria\Portaria\Portaria.exe
+C:\Portaria\Portaria\Portaria.pdb
